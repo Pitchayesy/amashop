@@ -5,7 +5,7 @@ import { componentTagger } from "lovable-tagger";
 
 // https://vitejs.dev/config/
 export default defineConfig(({ mode }) => ({
-  base: "/ama-shop/",   // 👈 เพิ่มบรรทัดนี้
+  base: "/amashop/",   // 👈 เพิ่มบรรทัดนี้
 
   server: {
     host: "::",
